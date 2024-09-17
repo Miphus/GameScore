@@ -1,0 +1,157 @@
+body {
+    background-image: url(../img/pattern.png);
+    padding-bottom: 50px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+header {
+    background-image: url(../img/header-pic.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-text {
+    padding-top: 100px;
+    margin-bottom: 50px;
+    text-shadow: 2px 10px 4px rgba(0, 0, 0, 0.5);
+    color: #fcfcfc;
+    text-align: center;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+
+.header-text h1 {
+    color: #fff01a;
+    font-size: 4em;
+}
+
+.header-text h2, .header-text h3 {
+    font-size: 1.2em;
+}
+
+.header-text h3 {
+    padding-top: 65px;
+    font-size: 2.2em;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: #000;
+    height: 50px;
+    padding: 10px;
+}
+
+.nav a {
+    color: #f2f2f2;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.nav a:hover {
+    color: #ffe345;
+}
+
+.wallpost-section {
+    max-width: 800px; /* Centering the wallpost section */
+    margin: 20px auto;
+    background-color: #222;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.wallpost-section h2 {
+    color: white;
+}
+
+.wallpost-section h3 {
+    color: white;
+}
+
+.post h1 {
+
+    color: white;
+}
+
+.post h2 {
+
+    color: white;
+}
+
+.post h3 {
+    display: inline-block;
+    background-image: linear-gradient(to right, #4facfe 0%, #003bfe 100%); /* Original gradient background */
+    color: #fff;
+    padding: 5px 10px; /* Reduced padding for a smaller button */
+    font-size: 0.8em; /* Smaller text to match the button's size */
+    border-radius: 5px;
+    text-decoration: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background-image 0.3s ease; /* Smooth transition for hover effects */
+}
+
+.post h3:hover {
+    transform: translateY(-2px); /* Slight lift for dynamic interaction */
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+    background-image: linear-gradient(to right, #37a6f6 0%, #1fe6fc 100%); /* Lighter gradient for an engaging hover effect */
+}
+
+.post, .comment-form, .post-form {
+    margin-bottom: 15px; /* Smaller margin to reduce overall size */
+    background-color: #1a1a1a;
+    padding: 10px; /* Reduced padding to make the post smaller */
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.post p, .comment p {
+    color: #E0E0E0;
+}
+
+textarea, input[type="text"] {
+    width: 100%;
+    padding: 8px; /* Slightly reduced padding */
+    margin: 8px 0; /* Smaller margin */
+    background-color: #333;
+    border: 1px solid #444;
+    border-radius: 4px;
+    color: #DDD;
+}
+
+button {
+    display: inline-block;
+    background-image: linear-gradient(to right, #4facfe 0%, #003bfe 100%); /* Original gradient background */
+    color: #fff;
+    padding: 5px 10px; /* Reduced padding for a smaller button */
+    font-size: 0.8em; /* Smaller text to match the button's size */
+    border-radius: 5px;
+    text-decoration: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background-image 0.3s ease; /* Smooth transition for hover effects */
+}
+
+button:hover {
+    transform: translateY(-2px); /* Slight lift for dynamic interaction */
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+    background-image: linear-gradient(to right, #37a6f6 0%, #1fe6fc 100%); /* Lighter gradient for an engaging hover effect */
+}
+
+.comments {
+    margin-top: 10px;
+}
+
+.comment {
+    background-color: #292929;
+    padding: 8px; /* Slightly reduced padding for comments */
+    border-radius: 4px;
+    margin-top: 5px;
+}
+
+.nav-link-active {
+    color: #ffe345 !important;
+}

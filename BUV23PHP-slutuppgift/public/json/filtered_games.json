@@ -1,0 +1,1802 @@
+[
+    {
+        "id": 3498,
+        "name": "Grand Theft Auto V",
+        "release_date": "2013-09-17",
+        "rating": 4.47,
+        "metacritic": 92,
+        "updated": "2024-02-23T01:11:10",
+        "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+    },
+    {
+        "id": 3328,
+        "name": "The Witcher 3: Wild Hunt",
+        "release_date": "2015-05-18",
+        "rating": 4.65,
+        "metacritic": 92,
+        "updated": "2024-02-26T06:50:06",
+        "image_background": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+    },
+    {
+        "id": 4200,
+        "name": "Portal 2",
+        "release_date": "2011-04-18",
+        "rating": 4.61,
+        "metacritic": 95,
+        "updated": "2024-02-25T12:14:17",
+        "image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+    },
+    {
+        "id": 4291,
+        "name": "Counter-Strike: Global Offensive",
+        "release_date": "2012-08-21",
+        "rating": 3.57,
+        "metacritic": 81,
+        "updated": "2024-02-23T18:10:34",
+        "image_background": "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg"
+    },
+    {
+        "id": 5286,
+        "name": "Tomb Raider (2013)",
+        "release_date": "2013-03-05",
+        "rating": 4.05,
+        "metacritic": 86,
+        "updated": "2024-02-25T12:12:01",
+        "image_background": "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg"
+    },
+    {
+        "id": 13536,
+        "name": "Portal",
+        "release_date": "2007-10-09",
+        "rating": 4.51,
+        "metacritic": 90,
+        "updated": "2024-02-26T10:41:03",
+        "image_background": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+    },
+    {
+        "id": 12020,
+        "name": "Left 4 Dead 2",
+        "release_date": "2009-11-17",
+        "rating": 4.09,
+        "metacritic": 89,
+        "updated": "2024-02-26T10:41:46",
+        "image_background": "https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg"
+    },
+    {
+        "id": 5679,
+        "name": "The Elder Scrolls V: Skyrim",
+        "release_date": "2011-11-11",
+        "rating": 4.42,
+        "metacritic": 94,
+        "updated": "2024-02-25T12:14:40",
+        "image_background": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Red Dead Redemption 2",
+        "release_date": "2018-10-26",
+        "rating": 4.59,
+        "metacritic": 96,
+        "updated": "2024-02-24T18:22:53",
+        "image_background": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+    },
+    {
+        "id": 4062,
+        "name": "BioShock Infinite",
+        "release_date": "2013-03-26",
+        "rating": 4.38,
+        "metacritic": 94,
+        "updated": "2024-02-25T12:14:46",
+        "image_background": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg"
+    },
+    {
+        "id": 3439,
+        "name": "Life is Strange",
+        "release_date": "2015-01-29",
+        "rating": 4.11,
+        "metacritic": 83,
+        "updated": "2024-02-17T16:53:59",
+        "image_background": "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg"
+    },
+    {
+        "id": 802,
+        "name": "Borderlands 2",
+        "release_date": "2012-09-18",
+        "rating": 4.01,
+        "metacritic": 89,
+        "updated": "2024-02-20T19:25:33",
+        "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+    },
+    {
+        "id": 13537,
+        "name": "Half-Life 2",
+        "release_date": "2004-11-16",
+        "rating": 4.48,
+        "metacritic": 96,
+        "updated": "2024-02-24T18:11:44",
+        "image_background": "https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg"
+    },
+    {
+        "id": 4286,
+        "name": "BioShock",
+        "release_date": "2007-08-21",
+        "rating": 4.36,
+        "metacritic": 96,
+        "updated": "2024-02-19T15:21:14",
+        "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Destiny 2",
+        "release_date": "2017-09-06",
+        "rating": 3.54,
+        "metacritic": 82,
+        "updated": "2024-02-22T09:11:36",
+        "image_background": "https://media.rawg.io/media/games/34b/34b1f1850a1c06fd971bc6ab3ac0ce0e.jpg"
+    },
+    {
+        "id": 58175,
+        "name": "God of War (2018)",
+        "release_date": "2018-04-20",
+        "rating": 4.57,
+        "metacritic": 94,
+        "updated": "2024-02-26T03:21:45",
+        "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+    },
+    {
+        "id": 1030,
+        "name": "Limbo",
+        "release_date": "2010-07-21",
+        "rating": 4.15,
+        "metacritic": 88,
+        "updated": "2024-02-06T03:55:55",
+        "image_background": "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg"
+    },
+    {
+        "id": 3070,
+        "name": "Fallout 4",
+        "release_date": "2015-11-09",
+        "rating": 3.8,
+        "metacritic": 84,
+        "updated": "2024-02-25T17:12:08",
+        "image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+    },
+    {
+        "id": 2454,
+        "name": "DOOM (2016)",
+        "release_date": "2016-05-13",
+        "rating": 4.38,
+        "metacritic": 85,
+        "updated": "2024-02-25T12:14:46",
+        "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+    },
+    {
+        "id": 3939,
+        "name": "PAYDAY 2",
+        "release_date": "2013-08-13",
+        "rating": 3.51,
+        "metacritic": 79,
+        "updated": "2024-02-25T12:15:07",
+        "image_background": "https://media.rawg.io/media/games/73e/73eecb8909e0c39fb246f457b5d6cbbe.jpg"
+    },
+    {
+        "id": 11859,
+        "name": "Team Fortress 2",
+        "release_date": "2007-10-10",
+        "rating": 3.68,
+        "metacritic": 92,
+        "updated": "2024-02-17T15:39:19",
+        "image_background": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg"
+    },
+    {
+        "id": 41494,
+        "name": "Cyberpunk 2077",
+        "release_date": "2020-12-10",
+        "rating": 4.16,
+        "metacritic": 73,
+        "updated": "2024-02-25T18:32:55",
+        "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+    },
+    {
+        "id": 278,
+        "name": "Horizon Zero Dawn",
+        "release_date": "2017-02-28",
+        "rating": 4.29,
+        "metacritic": 89,
+        "updated": "2024-02-25T06:29:56",
+        "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+    },
+    {
+        "id": 4459,
+        "name": "Grand Theft Auto IV",
+        "release_date": "2008-04-29",
+        "rating": 4.26,
+        "metacritic": 95,
+        "updated": "2024-02-25T12:15:10",
+        "image_background": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+    },
+    {
+        "id": 422,
+        "name": "Terraria",
+        "release_date": "2011-05-16",
+        "rating": 4.06,
+        "metacritic": 81,
+        "updated": "2024-02-25T12:15:15",
+        "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+    },
+    {
+        "id": 3272,
+        "name": "Rocket League",
+        "release_date": "2015-07-07",
+        "rating": 3.94,
+        "metacritic": 86,
+        "updated": "2024-02-25T12:15:22",
+        "image_background": "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg"
+    },
+    {
+        "id": 10213,
+        "name": "Dota 2",
+        "release_date": "2013-07-09",
+        "rating": 3.07,
+        "metacritic": 90,
+        "updated": "2024-02-23T19:51:54",
+        "image_background": "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg"
+    },
+    {
+        "id": 766,
+        "name": "Warframe",
+        "release_date": "2013-03-25",
+        "rating": 3.43,
+        "metacritic": 73,
+        "updated": "2024-02-25T12:15:18",
+        "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+    },
+    {
+        "id": 29028,
+        "name": "Metro 2033",
+        "release_date": "2010-03-16",
+        "rating": 3.94,
+        "metacritic": 79,
+        "updated": "2024-02-26T10:42:05",
+        "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg"
+    },
+    {
+        "id": 7689,
+        "name": "Rise of the Tomb Raider",
+        "release_date": "2015-11-10",
+        "rating": 4.04,
+        "metacritic": 86,
+        "updated": "2024-02-25T19:31:02",
+        "image_background": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg"
+    },
+    {
+        "id": 3192,
+        "name": "Metal Gear Solid V: The Phantom Pain",
+        "release_date": "2015-09-01",
+        "rating": 4.15,
+        "metacritic": 91,
+        "updated": "2024-02-25T12:15:26",
+        "image_background": "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg"
+    },
+    {
+        "id": 3287,
+        "name": "Batman: Arkham Knight",
+        "release_date": "2015-06-23",
+        "rating": 4.23,
+        "metacritic": 81,
+        "updated": "2024-02-25T12:15:32",
+        "image_background": "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg"
+    },
+    {
+        "id": 16944,
+        "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+        "release_date": "2012-04-16",
+        "rating": 4.16,
+        "metacritic": 88,
+        "updated": "2024-02-26T11:20:16",
+        "image_background": "https://media.rawg.io/media/games/6cd/6cd653e0aaef5ff8bbd295bf4bcb12eb.jpg"
+    },
+    {
+        "id": 19103,
+        "name": "Half-Life 2: Lost Coast",
+        "release_date": "2005-10-27",
+        "rating": 3.45,
+        "metacritic": null,
+        "updated": "2024-02-09T18:09:14",
+        "image_background": "https://media.rawg.io/media/games/b7b/b7b8381707152afc7d91f5d95de70e39.jpg"
+    },
+    {
+        "id": 416,
+        "name": "Grand Theft Auto: San Andreas",
+        "release_date": "2004-10-26",
+        "rating": 4.51,
+        "metacritic": 93,
+        "updated": "2024-02-25T18:33:16",
+        "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+    },
+    {
+        "id": 23027,
+        "name": "The Walking Dead: Season 1",
+        "release_date": "2012-04-23",
+        "rating": 4.35,
+        "metacritic": 92,
+        "updated": "2024-02-14T02:13:25",
+        "image_background": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg"
+    },
+    {
+        "id": 17822,
+        "name": "The Witcher: Enhanced Edition Director's Cut",
+        "release_date": "2008-09-16",
+        "rating": 4.06,
+        "metacritic": 86,
+        "updated": "2024-02-26T11:21:04",
+        "image_background": "https://media.rawg.io/media/games/ee3/ee3e10193aafc3230ba1cae426967d10.jpg"
+    },
+    {
+        "id": 11973,
+        "name": "Middle-earth: Shadow of Mordor",
+        "release_date": "2014-09-30",
+        "rating": 3.9,
+        "metacritic": 85,
+        "updated": "2024-02-25T12:15:24",
+        "image_background": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg"
+    },
+    {
+        "id": 290856,
+        "name": "Apex Legends",
+        "release_date": "2019-02-04",
+        "rating": 3.65,
+        "metacritic": 80,
+        "updated": "2024-02-25T21:10:38",
+        "image_background": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+    },
+    {
+        "id": 19710,
+        "name": "Half-Life 2: Episode One",
+        "release_date": "2006-06-01",
+        "rating": 4.37,
+        "metacritic": 87,
+        "updated": "2024-02-12T11:59:55",
+        "image_background": "https://media.rawg.io/media/games/7a2/7a2500ee8b2c0e1ff268bb4479463dea.jpg"
+    },
+    {
+        "id": 19709,
+        "name": "Half-Life 2: Episode Two",
+        "release_date": "2007-10-10",
+        "rating": 4.45,
+        "metacritic": 90,
+        "updated": "2024-02-12T11:43:08",
+        "image_background": "https://media.rawg.io/media/games/198/1988a337305e008b41d7f536ce9b73f6.jpg"
+    },
+    {
+        "id": 4427,
+        "name": "BioShock 2",
+        "release_date": "2010-02-09",
+        "rating": 4.07,
+        "metacritic": 88,
+        "updated": "2024-02-25T12:15:38",
+        "image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+    },
+    {
+        "id": 9767,
+        "name": "Hollow Knight",
+        "release_date": "2017-02-23",
+        "rating": 4.4,
+        "metacritic": 88,
+        "updated": "2024-02-25T12:15:35",
+        "image_background": "https://media.rawg.io/media/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg"
+    },
+    {
+        "id": 41,
+        "name": "Little Nightmares",
+        "release_date": "2017-04-27",
+        "rating": 4.05,
+        "metacritic": 81,
+        "updated": "2024-02-25T12:15:43",
+        "image_background": "https://media.rawg.io/media/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg"
+    },
+    {
+        "id": 10035,
+        "name": "Hitman",
+        "release_date": "2016-03-11",
+        "rating": 3.92,
+        "metacritic": 83,
+        "updated": "2024-02-19T23:24:10",
+        "image_background": "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg"
+    },
+    {
+        "id": 2551,
+        "name": "Dark Souls III",
+        "release_date": "2016-04-11",
+        "rating": 4.4,
+        "metacritic": 89,
+        "updated": "2024-02-25T12:15:50",
+        "image_background": "https://media.rawg.io/media/games/da1/da1b267764d77221f07a4386b6548e5a.jpg"
+    },
+    {
+        "id": 4252,
+        "name": "Mirror's Edge",
+        "release_date": "2008-11-11",
+        "rating": 4.07,
+        "metacritic": 81,
+        "updated": "2024-02-26T10:42:10",
+        "image_background": "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg"
+    },
+    {
+        "id": 3612,
+        "name": "Hotline Miami",
+        "release_date": "2012-10-22",
+        "rating": 4.38,
+        "metacritic": 85,
+        "updated": "2024-02-25T12:15:58",
+        "image_background": "https://media.rawg.io/media/games/9fa/9fa63622543e5d4f6d99aa9d73b043de.jpg"
+    },
+    {
+        "id": 3790,
+        "name": "Outlast",
+        "release_date": "2013-09-03",
+        "rating": 3.73,
+        "metacritic": 80,
+        "updated": "2024-02-25T21:10:50",
+        "image_background": "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg"
+    },
+    {
+        "id": 18080,
+        "name": "Half-Life",
+        "release_date": "1998-11-08",
+        "rating": 4.38,
+        "metacritic": 96,
+        "updated": "2024-02-19T20:26:50",
+        "image_background": "https://media.rawg.io/media/games/6c5/6c55e22185876626881b76c11922b073.jpg"
+    },
+    {
+        "id": 1447,
+        "name": "Deus Ex: Mankind Divided",
+        "release_date": "2016-08-22",
+        "rating": 3.97,
+        "metacritic": 83,
+        "updated": "2024-02-12T11:29:01",
+        "image_background": "https://media.rawg.io/media/games/00d/00d374f12a3ab5f96c500a2cfa901e15.jpg"
+    },
+    {
+        "id": 4161,
+        "name": "Far Cry 3",
+        "release_date": "2012-11-28",
+        "rating": 4.24,
+        "metacritic": 88,
+        "updated": "2024-02-25T12:16:08",
+        "image_background": "https://media.rawg.io/media/games/15c/15c95a4915f88a3e89c821526afe05fc.jpg"
+    },
+    {
+        "id": 10754,
+        "name": "BioShock Remastered",
+        "release_date": "2016-09-15",
+        "rating": 4.24,
+        "metacritic": null,
+        "updated": "2024-02-25T12:16:07",
+        "image_background": "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg"
+    },
+    {
+        "id": 11936,
+        "name": "Half-Life 2: Deathmatch",
+        "release_date": "2004-11-01",
+        "rating": 3.29,
+        "metacritic": null,
+        "updated": "2024-01-28T11:02:47",
+        "image_background": "https://media.rawg.io/media/games/ec3/ec3a7db7b8ab5a71aad622fe7c62632f.jpg"
+    },
+    {
+        "id": 58134,
+        "name": "Marvel's Spider-Man",
+        "release_date": "2018-09-07",
+        "rating": 4.45,
+        "metacritic": 87,
+        "updated": "2024-02-24T15:04:55",
+        "image_background": "https://media.rawg.io/media/games/9aa/9aa42d16d425fa6f179fc9dc2f763647.jpg"
+    },
+    {
+        "id": 4332,
+        "name": "Spec Ops: The Line",
+        "release_date": "2012-06-26",
+        "rating": 4.09,
+        "metacritic": 76,
+        "updated": "2024-02-16T19:43:49",
+        "image_background": "https://media.rawg.io/media/games/b49/b4912b5dbfc7ed8927b65f05b8507f6c.jpg"
+    },
+    {
+        "id": 19487,
+        "name": "Alan Wake",
+        "release_date": "2010-05-14",
+        "rating": 4.1,
+        "metacritic": 83,
+        "updated": "2024-02-25T21:11:10",
+        "image_background": "https://media.rawg.io/media/games/5c0/5c0dd63002cb23f804aab327d40ef119.jpg"
+    },
+    {
+        "id": 13668,
+        "name": "Amnesia: The Dark Descent",
+        "release_date": "2010-09-08",
+        "rating": 3.65,
+        "metacritic": 85,
+        "updated": "2024-02-13T06:41:54",
+        "image_background": "https://media.rawg.io/media/games/b54/b54598d1d5cc31899f4f0a7e3122a7b0.jpg"
+    },
+    {
+        "id": 3696,
+        "name": "Wolfenstein: The New Order",
+        "release_date": "2014-05-19",
+        "rating": 4.18,
+        "metacritic": 81,
+        "updated": "2024-02-25T12:16:14",
+        "image_background": "https://media.rawg.io/media/games/c80/c80bcf321da44d69b18a06c04d942662.jpg"
+    },
+    {
+        "id": 4386,
+        "name": "Saints Row: The Third",
+        "release_date": "2011-11-15",
+        "rating": 3.95,
+        "metacritic": 84,
+        "updated": "2024-02-25T21:10:57",
+        "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+    },
+    {
+        "id": 654,
+        "name": "Stardew Valley",
+        "release_date": "2016-02-25",
+        "rating": 4.4,
+        "metacritic": 89,
+        "updated": "2024-02-25T21:11:04",
+        "image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+    },
+    {
+        "id": 10533,
+        "name": "Path of Exile",
+        "release_date": "2013-10-23",
+        "rating": 3.65,
+        "metacritic": 86,
+        "updated": "2024-02-25T21:11:20",
+        "image_background": "https://media.rawg.io/media/games/d0f/d0f91fe1d92332147e5db74e207cfc7a.jpg"
+    },
+    {
+        "id": 29177,
+        "name": "Detroit: Become Human",
+        "release_date": "2018-05-25",
+        "rating": 4.31,
+        "metacritic": 79,
+        "updated": "2024-02-26T10:30:10",
+        "image_background": "https://media.rawg.io/media/games/951/951572a3dd1e42544bd39a5d5b42d234.jpg"
+    },
+    {
+        "id": 10142,
+        "name": "PlayerUnknown\u2019s Battlegrounds",
+        "release_date": "2017-12-20",
+        "rating": 3.27,
+        "metacritic": 81,
+        "updated": "2024-02-25T21:11:16",
+        "image_background": "https://media.rawg.io/media/games/1bd/1bd2657b81eb0c99338120ad444b24ff.jpg"
+    },
+    {
+        "id": 4828,
+        "name": "Borderlands",
+        "release_date": "2009-10-20",
+        "rating": 3.82,
+        "metacritic": 81,
+        "updated": "2024-02-26T10:42:43",
+        "image_background": "https://media.rawg.io/media/games/c6b/c6bfece1daf8d06bc0a60632ac78e5bf.jpg"
+    },
+    {
+        "id": 39,
+        "name": "Prey",
+        "release_date": "2017-05-05",
+        "rating": 4.28,
+        "metacritic": 80,
+        "updated": "2024-02-25T12:16:23",
+        "image_background": "https://media.rawg.io/media/games/e6d/e6de699bd788497f4b52e2f41f9698f2.jpg"
+    },
+    {
+        "id": 9721,
+        "name": "Garry's Mod",
+        "release_date": "2004-12-24",
+        "rating": 3.79,
+        "metacritic": null,
+        "updated": "2024-02-19T20:42:20",
+        "image_background": "https://media.rawg.io/media/games/48c/48cb04ca483be865e3a83119c94e6097.jpg"
+    },
+    {
+        "id": 5563,
+        "name": "Fallout: New Vegas",
+        "release_date": "2010-10-19",
+        "rating": 4.44,
+        "metacritic": 84,
+        "updated": "2024-02-25T17:18:23",
+        "image_background": "https://media.rawg.io/media/games/995/9951d9d55323d08967640f7b9ab3e342.jpg"
+    },
+    {
+        "id": 17540,
+        "name": "Injustice: Gods Among Us Ultimate Edition",
+        "release_date": "2013-11-12",
+        "rating": 3.53,
+        "metacritic": 80,
+        "updated": "2024-01-30T18:23:41",
+        "image_background": "https://media.rawg.io/media/games/234/23410661770ae13eac11066980834367.jpg"
+    },
+    {
+        "id": 4514,
+        "name": "L.A. Noire",
+        "release_date": "2011-05-17",
+        "rating": 4.17,
+        "metacritic": 83,
+        "updated": "2024-02-25T12:16:43",
+        "image_background": "https://media.rawg.io/media/games/e2d/e2d3f396b16dded0f841c17c9799a882.jpg"
+    },
+    {
+        "id": 4248,
+        "name": "Dishonored",
+        "release_date": "2012-09-25",
+        "rating": 4.38,
+        "metacritic": 91,
+        "updated": "2024-02-25T12:16:40",
+        "image_background": "https://media.rawg.io/media/games/4e6/4e6e8e7f50c237d76f38f3c885dae3d2.jpg"
+    },
+    {
+        "id": 12447,
+        "name": "The Elder Scrolls V: Skyrim Special Edition",
+        "release_date": "2016-10-27",
+        "rating": 4.46,
+        "metacritic": 74,
+        "updated": "2024-02-25T21:11:29",
+        "image_background": "https://media.rawg.io/media/games/62c/62c7c8b28a27b83680b22fb9d33fc619.jpg"
+    },
+    {
+        "id": 3144,
+        "name": "Super Meat Boy",
+        "release_date": "2010-10-20",
+        "rating": 3.97,
+        "metacritic": 87,
+        "updated": "2024-02-26T10:43:10",
+        "image_background": "https://media.rawg.io/media/games/e04/e04963f3ac4c4fa83a1dc0b9231e50db.jpg"
+    },
+    {
+        "id": 864,
+        "name": "Dishonored 2",
+        "release_date": "2016-11-10",
+        "rating": 4.26,
+        "metacritic": 86,
+        "updated": "2024-02-25T12:16:37",
+        "image_background": "https://media.rawg.io/media/games/f6b/f6bed028b02369d4cab548f4f9337e81.jpg"
+    },
+    {
+        "id": 13633,
+        "name": "Sid Meier's Civilization V",
+        "release_date": "2010-09-21",
+        "rating": 4.3,
+        "metacritic": 90,
+        "updated": "2024-02-14T14:33:39",
+        "image_background": "https://media.rawg.io/media/games/55e/55ee6432ac2bf224610fa17e4c652107.jpg"
+    },
+    {
+        "id": 430,
+        "name": "Grand Theft Auto: Vice City",
+        "release_date": "2002-10-27",
+        "rating": 4.45,
+        "metacritic": 94,
+        "updated": "2024-02-26T08:12:07",
+        "image_background": "https://media.rawg.io/media/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg"
+    },
+    {
+        "id": 2462,
+        "name": "Uncharted 4: A Thief\u2019s End",
+        "release_date": "2016-05-10",
+        "rating": 4.5,
+        "metacritic": 93,
+        "updated": "2024-02-24T18:11:42",
+        "image_background": "https://media.rawg.io/media/games/709/709bf81f874ce5d25d625b37b014cb63.jpg"
+    },
+    {
+        "id": 362,
+        "name": "For Honor",
+        "release_date": "2017-02-13",
+        "rating": 3.3,
+        "metacritic": 76,
+        "updated": "2024-02-25T21:11:53",
+        "image_background": "https://media.rawg.io/media/games/4e0/4e0e7b6d6906a131307c94266e5c9a1c.jpg"
+    },
+    {
+        "id": 12536,
+        "name": "Hellblade: Senua's Sacrifice",
+        "release_date": "2017-08-07",
+        "rating": 4.24,
+        "metacritic": 83,
+        "updated": "2024-02-25T21:11:37",
+        "image_background": "https://media.rawg.io/media/games/63f/63f0e68688cad279ed38cde931dbfcdb.jpg"
+    },
+    {
+        "id": 10243,
+        "name": "Company of Heroes 2",
+        "release_date": "2013-06-25",
+        "rating": 3.09,
+        "metacritic": 80,
+        "updated": "2024-01-24T22:42:49",
+        "image_background": "https://media.rawg.io/media/games/0bd/0bd5646a3d8ee0ac3314bced91ea306d.jpg"
+    },
+    {
+        "id": 3841,
+        "name": "Assassin\u2019s Creed IV: Black Flag",
+        "release_date": "2013-10-29",
+        "rating": 4.14,
+        "metacritic": 85,
+        "updated": "2024-02-25T12:16:53",
+        "image_background": "https://media.rawg.io/media/games/849/849414b978db37d4563ff9e4b0d3a787.jpg"
+    },
+    {
+        "id": 4570,
+        "name": "Dead Space (2008)",
+        "release_date": "2008-10-13",
+        "rating": 4.38,
+        "metacritic": 86,
+        "updated": "2024-02-25T12:16:48",
+        "image_background": "https://media.rawg.io/media/games/ebd/ebdbb7eb52bd58b0e7fa4538d9757b60.jpg"
+    },
+    {
+        "id": 5583,
+        "name": "Hitman: Absolution",
+        "release_date": "2012-11-19",
+        "rating": 3.74,
+        "metacritic": 79,
+        "updated": "2024-02-16T11:33:48",
+        "image_background": "https://media.rawg.io/media/games/d46/d46373f39458670305704ef089387520.jpg"
+    },
+    {
+        "id": 11935,
+        "name": "Half-Life Deathmatch: Source",
+        "release_date": "2006-05-01",
+        "rating": 3.22,
+        "metacritic": null,
+        "updated": "2024-01-25T16:24:32",
+        "image_background": "https://media.rawg.io/media/games/174/174fabfca02d5730531bab2153a7dfcb.jpg"
+    },
+    {
+        "id": 4806,
+        "name": "Mass Effect 2",
+        "release_date": "2010-01-26",
+        "rating": 4.48,
+        "metacritic": 94,
+        "updated": "2024-02-16T12:50:53",
+        "image_background": "https://media.rawg.io/media/games/3cf/3cff89996570cf29a10eb9cd967dcf73.jpg"
+    },
+    {
+        "id": 58812,
+        "name": "Control",
+        "release_date": "2019-08-27",
+        "rating": 4.16,
+        "metacritic": 84,
+        "updated": "2024-02-21T12:07:10",
+        "image_background": "https://media.rawg.io/media/games/253/2534a46f3da7fa7c315f1387515ca393.jpg"
+    },
+    {
+        "id": 9882,
+        "name": "Don't Starve Together",
+        "release_date": "2016-04-21",
+        "rating": 3.78,
+        "metacritic": 83,
+        "updated": "2024-02-25T21:12:02",
+        "image_background": "https://media.rawg.io/media/games/dd5/dd50d4266915d56dd5b63ae1bf72606a.jpg"
+    },
+    {
+        "id": 257201,
+        "name": "Star Wars Jedi: Fallen Order",
+        "release_date": "2019-11-15",
+        "rating": 4.14,
+        "metacritic": 80,
+        "updated": "2024-02-25T18:53:51",
+        "image_background": "https://media.rawg.io/media/games/559/559bc0768f656ad0c63c54b80a82d680.jpg"
+    },
+    {
+        "id": 50738,
+        "name": "Death Stranding",
+        "release_date": "2019-11-08",
+        "rating": 4.33,
+        "metacritic": 84,
+        "updated": "2024-02-24T11:36:38",
+        "image_background": "https://media.rawg.io/media/games/2ad/2ad87a4a69b1104f02435c14c5196095.jpg"
+    },
+    {
+        "id": 11934,
+        "name": "Counter-Strike: Source",
+        "release_date": "2004-11-01",
+        "rating": 3.75,
+        "metacritic": 88,
+        "updated": "2024-02-10T11:52:19",
+        "image_background": "https://media.rawg.io/media/games/48e/48e63bbddeddbe9ba81942772b156664.jpg"
+    },
+    {
+        "id": 3636,
+        "name": "The Last Of Us Remastered",
+        "release_date": "2014-07-29",
+        "rating": 4.69,
+        "metacritic": 95,
+        "updated": "2024-02-24T15:05:38",
+        "image_background": "https://media.rawg.io/media/games/364/3642d850efb217c58feab80b8affaa89.jpg"
+    },
+    {
+        "id": 3017,
+        "name": "Just Cause 3",
+        "release_date": "2015-11-30",
+        "rating": 3.39,
+        "metacritic": 74,
+        "updated": "2024-02-12T11:14:42",
+        "image_background": "https://media.rawg.io/media/games/5bb/5bb55ccb8205aadbb6a144cf6d8963f1.jpg"
+    },
+    {
+        "id": 3543,
+        "name": "Borderlands: The Pre-Sequel",
+        "release_date": "2014-10-13",
+        "rating": 3.55,
+        "metacritic": 75,
+        "updated": "2024-02-05T05:54:52",
+        "image_background": "https://media.rawg.io/media/games/530/5302dd22a190e664531236ca724e8726.jpg"
+    },
+    {
+        "id": 3747,
+        "name": "Metal Gear Solid V: Ground Zeroes",
+        "release_date": "2014-03-18",
+        "rating": 3.9,
+        "metacritic": 80,
+        "updated": "2024-02-25T21:12:06",
+        "image_background": "https://media.rawg.io/media/games/7ac/7aca7ccf0e70cd0974cb899ab9e5158e.jpg"
+    },
+    {
+        "id": 4166,
+        "name": "Mass Effect",
+        "release_date": "2007-11-16",
+        "rating": 4.39,
+        "metacritic": 89,
+        "updated": "2024-02-20T21:00:58",
+        "image_background": "https://media.rawg.io/media/games/a6c/a6ccd34125c594abf1a9c9821b9a715d.jpg"
+    },
+    {
+        "id": 3604,
+        "name": "Metro: Last Light Redux",
+        "release_date": "2014-08-25",
+        "rating": 4.13,
+        "metacritic": 76,
+        "updated": "2024-02-24T17:57:47",
+        "image_background": "https://media.rawg.io/media/games/7a4/7a45e4cdc5b07f316d49cf147b083b27.jpg"
+    },
+    {
+        "id": 108,
+        "name": "Mortal Kombat X",
+        "release_date": "2015-04-07",
+        "rating": 3.85,
+        "metacritic": 76,
+        "updated": "2024-02-25T12:16:58",
+        "image_background": "https://media.rawg.io/media/games/aa3/aa36ba4b486a03ddfaef274fb4f5afd4.jpg"
+    },
+    {
+        "id": 19301,
+        "name": "Counter-Strike",
+        "release_date": "2000-11-01",
+        "rating": 4.04,
+        "metacritic": 88,
+        "updated": "2024-02-16T10:16:22",
+        "image_background": "https://media.rawg.io/media/games/9c4/9c47f320eb73c9a02d462e12f6206b26.jpg"
+    },
+    {
+        "id": 13535,
+        "name": "Left 4 Dead",
+        "release_date": "2008-11-17",
+        "rating": 4.1,
+        "metacritic": 89,
+        "updated": "2024-02-23T02:33:40",
+        "image_background": "https://media.rawg.io/media/games/476/476178ef18ab0534771d099f51cdc694.jpg"
+    },
+    {
+        "id": 3603,
+        "name": "Metro 2033 Redux",
+        "release_date": "2014-08-25",
+        "rating": 4.1,
+        "metacritic": 88,
+        "updated": "2024-02-25T21:12:20",
+        "image_background": "https://media.rawg.io/media/games/4fb/4fb548e4816c84d1d70f1a228fb167cc.jpg"
+    },
+    {
+        "id": 3387,
+        "name": "Bloodborne",
+        "release_date": "2015-03-24",
+        "rating": 4.41,
+        "metacritic": 92,
+        "updated": "2024-02-24T15:04:14",
+        "image_background": "https://media.rawg.io/media/games/214/214b29aeff13a0ae6a70fc4426e85991.jpg"
+    },
+    {
+        "id": 613,
+        "name": "Bastion",
+        "release_date": "2011-07-20",
+        "rating": 4.15,
+        "metacritic": 86,
+        "updated": "2024-02-13T06:10:14",
+        "image_background": "https://media.rawg.io/media/games/f99/f9979698c43fd84c3ab69280576dd3af.jpg"
+    },
+    {
+        "id": 4513,
+        "name": "Just Cause 2",
+        "release_date": "2010-03-23",
+        "rating": 3.61,
+        "metacritic": 84,
+        "updated": "2024-02-13T17:05:36",
+        "image_background": "https://media.rawg.io/media/games/a3c/a3c529a12c896c0ef02db5b4741de2ba.jpg"
+    },
+    {
+        "id": 11142,
+        "name": "BioShock 2 Remastered",
+        "release_date": "2016-09-15",
+        "rating": 4.01,
+        "metacritic": 83,
+        "updated": "2024-02-25T12:17:15",
+        "image_background": "https://media.rawg.io/media/games/7c4/7c448374df84b607f67ce9182a3a3ca7.jpg"
+    },
+    {
+        "id": 10141,
+        "name": "NieR:Automata",
+        "release_date": "2017-03-17",
+        "rating": 4.38,
+        "metacritic": 86,
+        "updated": "2024-02-19T16:21:54",
+        "image_background": "https://media.rawg.io/media/games/5a4/5a44112251d70a25291cc33757220fce.jpg"
+    },
+    {
+        "id": 326292,
+        "name": "Fall Guys: Ultimate Knockout",
+        "release_date": "2020-08-04",
+        "rating": 3.74,
+        "metacritic": 80,
+        "updated": "2024-02-25T21:12:28",
+        "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg"
+    },
+    {
+        "id": 3191,
+        "name": "Mad Max",
+        "release_date": "2015-08-31",
+        "rating": 3.77,
+        "metacritic": 73,
+        "updated": "2024-02-02T15:43:11",
+        "image_background": "https://media.rawg.io/media/games/d7d/d7d33daa1892e2468cd0263d5dfc957e.jpg"
+    },
+    {
+        "id": 3254,
+        "name": "Journey",
+        "release_date": "2012-03-13",
+        "rating": 4.32,
+        "metacritic": 92,
+        "updated": "2024-02-26T10:44:29",
+        "image_background": "https://media.rawg.io/media/games/baf/baf9905270314e07e6850cffdb51df41.jpg"
+    },
+    {
+        "id": 22509,
+        "name": "Minecraft",
+        "release_date": "2009-05-10",
+        "rating": 4.42,
+        "metacritic": 83,
+        "updated": "2024-02-25T12:17:04",
+        "image_background": "https://media.rawg.io/media/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg"
+    },
+    {
+        "id": 46889,
+        "name": "Monster Hunter: World",
+        "release_date": "2018-01-26",
+        "rating": 4.02,
+        "metacritic": 89,
+        "updated": "2024-02-25T21:12:46",
+        "image_background": "https://media.rawg.io/media/games/21c/21cc15d233117c6809ec86870559e105.jpg"
+    },
+    {
+        "id": 480,
+        "name": "Resident Evil 7: Biohazard",
+        "release_date": "2017-01-23",
+        "rating": 4.33,
+        "metacritic": 85,
+        "updated": "2024-02-19T17:33:40",
+        "image_background": "https://media.rawg.io/media/games/cee/cee577e2097a59b77193fe2bce94667d.jpg"
+    },
+    {
+        "id": 13910,
+        "name": "XCOM: Enemy Unknown",
+        "release_date": "2012-10-09",
+        "rating": 4.2,
+        "metacritic": 89,
+        "updated": "2024-02-26T07:19:51",
+        "image_background": "https://media.rawg.io/media/games/238/2383a172b4d50a7b44e07980eb7141ea.jpg"
+    },
+    {
+        "id": 18240,
+        "name": "Brothers: A Tale of Two Sons",
+        "release_date": "2013-08-07",
+        "rating": 4.19,
+        "metacritic": 90,
+        "updated": "2024-02-04T13:40:22",
+        "image_background": "https://media.rawg.io/media/games/b6b/b6b20bfc4b34e312dbc8aac53c95a348.jpg"
+    },
+    {
+        "id": 274755,
+        "name": "Hades",
+        "release_date": "2020-09-17",
+        "rating": 4.45,
+        "metacritic": 93,
+        "updated": "2024-02-25T12:17:34",
+        "image_background": "https://media.rawg.io/media/games/1f4/1f47a270b8f241e4676b14d39ec620f7.jpg"
+    },
+    {
+        "id": 5525,
+        "name": "Brutal Legend",
+        "release_date": "2009-10-12",
+        "rating": 3.65,
+        "metacritic": 80,
+        "updated": "2024-01-20T18:26:31",
+        "image_background": "https://media.rawg.io/media/games/af7/af7a831001c5c32c46e950cc883b8cb7.jpg"
+    },
+    {
+        "id": 923,
+        "name": "Titanfall 2",
+        "release_date": "2016-10-28",
+        "rating": 4.31,
+        "metacritic": 87,
+        "updated": "2024-02-25T12:18:14",
+        "image_background": "https://media.rawg.io/media/games/569/56978b5a77f13aa2ec5d09ec81d01cad.jpg"
+    },
+    {
+        "id": 10065,
+        "name": "Cities: Skylines",
+        "release_date": "2015-03-10",
+        "rating": 4.12,
+        "metacritic": 85,
+        "updated": "2024-02-08T18:22:45",
+        "image_background": "https://media.rawg.io/media/games/25c/25c4776ab5723d5d735d8bf617ca12d9.jpg"
+    },
+    {
+        "id": 10989,
+        "name": "Paladins",
+        "release_date": "2016-09-15",
+        "rating": 3.09,
+        "metacritic": 78,
+        "updated": "2024-02-25T21:13:07",
+        "image_background": "https://media.rawg.io/media/games/d2c/d2c74dacd89fd817c2deb625b01adb1a.jpg"
+    },
+    {
+        "id": 17576,
+        "name": "Batman: Arkham City - Game of the Year Edition",
+        "release_date": "2012-09-07",
+        "rating": 4.4,
+        "metacritic": 91,
+        "updated": "2024-02-16T11:52:03",
+        "image_background": "https://media.rawg.io/media/games/c50/c5085506fe4b5e20fc7aa5ace842c20b.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Middle-earth: Shadow of War",
+        "release_date": "2017-09-27",
+        "rating": 3.85,
+        "metacritic": 82,
+        "updated": "2024-02-08T18:21:46",
+        "image_background": "https://media.rawg.io/media/games/21a/21ad672cedee9b4378abb6c2d2e626ee.jpg"
+    },
+    {
+        "id": 1416,
+        "name": "Mafia II",
+        "release_date": "2010-08-24",
+        "rating": 4.23,
+        "metacritic": 77,
+        "updated": "2024-02-20T06:05:29",
+        "image_background": "https://media.rawg.io/media/games/9e5/9e5b274c7e3aa5e30beba31b834b0e7e.jpg"
+    },
+    {
+        "id": 11147,
+        "name": "ARK: Survival Of The Fittest",
+        "release_date": "2016-03-15",
+        "rating": 2.6,
+        "metacritic": null,
+        "updated": "2024-02-15T00:59:12",
+        "image_background": "https://media.rawg.io/media/games/095/0953bf01cd4e4dd204aba85489ac9868.jpg"
+    },
+    {
+        "id": 2743,
+        "name": "Heavy Rain",
+        "release_date": "2010-02-17",
+        "rating": 4.11,
+        "metacritic": 80,
+        "updated": "2024-02-19T20:42:00",
+        "image_background": "https://media.rawg.io/media/games/0af/0af85e8edddfa55368e47c539914a220.jpg"
+    },
+    {
+        "id": 3687,
+        "name": "Watch Dogs",
+        "release_date": "2014-05-27",
+        "rating": 3.58,
+        "metacritic": 77,
+        "updated": "2024-02-25T12:19:04",
+        "image_background": "https://media.rawg.io/media/games/879/879c930f9c6787c920153fa2df452eb3.jpg"
+    },
+    {
+        "id": 28179,
+        "name": "SEGA Mega Drive and Genesis Classics",
+        "release_date": "2010-06-01",
+        "rating": 2.99,
+        "metacritic": 76,
+        "updated": "2024-01-31T19:00:47",
+        "image_background": "https://media.rawg.io/media/games/0fd/0fd84d36596a83ef2e5a35f63a072218.jpg"
+    },
+    {
+        "id": 2361,
+        "name": "Psychonauts",
+        "release_date": "2005-04-01",
+        "rating": 4.03,
+        "metacritic": 87,
+        "updated": "2024-02-02T15:55:32",
+        "image_background": "https://media.rawg.io/media/games/c89/c89ca70716080733d03724277df2c6c7.jpg"
+    },
+    {
+        "id": 17572,
+        "name": "Batman: Arkham Asylum Game of the Year Edition",
+        "release_date": "2010-03-26",
+        "rating": 4.38,
+        "metacritic": 91,
+        "updated": "2024-02-16T11:51:36",
+        "image_background": "https://media.rawg.io/media/games/fd8/fd882c8267a44621a0de6f9cec77ae90.jpg"
+    },
+    {
+        "id": 23585,
+        "name": "Far Cry 5",
+        "release_date": "2018-03-27",
+        "rating": 3.71,
+        "metacritic": 80,
+        "updated": "2024-02-13T06:40:58",
+        "image_background": "https://media.rawg.io/media/games/bce/bce62fbc7cf74bf6a1a37340993ec148.jpg"
+    },
+    {
+        "id": 1450,
+        "name": "INSIDE",
+        "release_date": "2016-06-28",
+        "rating": 4.39,
+        "metacritic": 87,
+        "updated": "2024-02-12T21:28:10",
+        "image_background": "https://media.rawg.io/media/games/d5a/d5a24f9f71315427fa6e966fdd98dfa6.jpg"
+    },
+    {
+        "id": 13554,
+        "name": "Fallout",
+        "release_date": "1997-09-30",
+        "rating": 4.19,
+        "metacritic": null,
+        "updated": "2024-02-10T21:26:19",
+        "image_background": "https://media.rawg.io/media/games/14a/14a83c56ff668baaced6e8c8704b6391.jpg"
+    },
+    {
+        "id": 4280,
+        "name": "Max Payne 3",
+        "release_date": "2012-05-15",
+        "rating": 4.25,
+        "metacritic": 87,
+        "updated": "2024-02-20T15:00:27",
+        "image_background": "https://media.rawg.io/media/games/5bf/5bf88a28de96321c86561a65ee48e6c2.jpg"
+    },
+    {
+        "id": 51329,
+        "name": "Shadow of the Tomb Raider",
+        "release_date": "2018-09-14",
+        "rating": 3.91,
+        "metacritic": 78,
+        "updated": "2024-02-22T01:30:47",
+        "image_background": "https://media.rawg.io/media/games/7f6/7f6cd70ba2ad57053b4847c13569f2d8.jpg"
+    },
+    {
+        "id": 13627,
+        "name": "Undertale",
+        "release_date": "2015-09-14",
+        "rating": 4.34,
+        "metacritic": 92,
+        "updated": "2024-02-22T21:53:32",
+        "image_background": "https://media.rawg.io/media/games/ffe/ffed87105b14f5beff72ff44a7793fd5.jpg"
+    },
+    {
+        "id": 3931,
+        "name": "Saints Row IV",
+        "release_date": "2013-08-20",
+        "rating": 3.82,
+        "metacritic": 86,
+        "updated": "2024-02-25T21:13:26",
+        "image_background": "https://media.rawg.io/media/games/e3d/e3ddc524c6292a435d01d97cc5f42ea7.jpg"
+    },
+    {
+        "id": 4223,
+        "name": "The Darkness II",
+        "release_date": "2012-02-07",
+        "rating": 3.7,
+        "metacritic": 77,
+        "updated": "2024-02-25T12:19:08",
+        "image_background": "https://media.rawg.io/media/games/744/744adc36e6573dd67a0cb0e373738d19.jpg"
+    },
+    {
+        "id": 3556,
+        "name": "Alien: Isolation",
+        "release_date": "2014-10-05",
+        "rating": 4.19,
+        "metacritic": 81,
+        "updated": "2024-02-09T21:30:22",
+        "image_background": "https://media.rawg.io/media/games/daa/daaee07fcb40744d90cf8142f94a241f.jpg"
+    },
+    {
+        "id": 28568,
+        "name": "Assassin's Creed II",
+        "release_date": "2009-11-17",
+        "rating": 4.42,
+        "metacritic": 89,
+        "updated": "2024-02-20T18:52:15",
+        "image_background": "https://media.rawg.io/media/games/1be/1bed7fae69d1004c09dfe1101d5a3a94.jpg"
+    },
+    {
+        "id": 2819,
+        "name": "Firewatch",
+        "release_date": "2016-02-08",
+        "rating": 4.3,
+        "metacritic": 81,
+        "updated": "2024-02-24T17:48:41",
+        "image_background": "https://media.rawg.io/media/games/0be/0bea0a08a4d954337305391b778a7f37.jpg"
+    },
+    {
+        "id": 58616,
+        "name": "Assassin's Creed Odyssey",
+        "release_date": "2018-10-05",
+        "rating": 3.99,
+        "metacritic": 85,
+        "updated": "2024-02-15T12:51:19",
+        "image_background": "https://media.rawg.io/media/games/c6b/c6bd26767c1053fef2b10bb852943559.jpg"
+    },
+    {
+        "id": 9743,
+        "name": "Unturned",
+        "release_date": "2014-07-07",
+        "rating": 2.71,
+        "metacritic": null,
+        "updated": "2024-02-19T20:39:47",
+        "image_background": "https://media.rawg.io/media/games/93e/93ee6101e1c943732f06080dddb0fe4c.jpg"
+    },
+    {
+        "id": 45969,
+        "name": "Warhammer: Vermintide 2",
+        "release_date": "2018-03-08",
+        "rating": 3.62,
+        "metacritic": 82,
+        "updated": "2024-02-16T13:24:53",
+        "image_background": "https://media.rawg.io/media/games/5be/5bec14622f6faf804a592176577c1347.jpg"
+    },
+    {
+        "id": 50734,
+        "name": "Sekiro: Shadows Die Twice",
+        "release_date": "2019-03-22",
+        "rating": 4.37,
+        "metacritic": 90,
+        "updated": "2024-02-25T12:19:12",
+        "image_background": "https://media.rawg.io/media/games/67f/67f62d1f062a6164f57575e0604ee9f6.jpg"
+    },
+    {
+        "id": 4502,
+        "name": "Darksiders",
+        "release_date": "2010-01-27",
+        "rating": 3.76,
+        "metacritic": 83,
+        "updated": "2024-02-04T09:53:09",
+        "image_background": "https://media.rawg.io/media/games/8d4/8d46786ca86b1d95f3dc7e700e2dc4dd.jpg"
+    },
+    {
+        "id": 9810,
+        "name": "ARK: Survival Evolved",
+        "release_date": "2015-06-02",
+        "rating": 3.02,
+        "metacritic": 70,
+        "updated": "2024-02-15T00:59:09",
+        "image_background": "https://media.rawg.io/media/games/58a/58ac7f6569259dcc0b60b921869b19fc.jpg"
+    },
+    {
+        "id": 8488,
+        "name": "Tom Clancy's Rainbow Six Siege",
+        "release_date": "2015-12-01",
+        "rating": 3.9,
+        "metacritic": 75,
+        "updated": "2024-02-16T13:28:59",
+        "image_background": "https://media.rawg.io/media/games/b34/b3419c2706f8f8dbe40d08e23642ad06.jpg"
+    },
+    {
+        "id": 28201,
+        "name": "Metro Exodus",
+        "release_date": "2019-02-13",
+        "rating": 4.16,
+        "metacritic": 81,
+        "updated": "2024-02-25T12:19:11",
+        "image_background": "https://media.rawg.io/media/games/152/152e788b7504aa2753c86dae912fb34c.jpg"
+    },
+    {
+        "id": 58654,
+        "name": "Hitman 2",
+        "release_date": "2018-11-13",
+        "rating": 4.04,
+        "metacritic": 83,
+        "updated": "2024-02-01T23:39:23",
+        "image_background": "https://media.rawg.io/media/games/858/858c016de0cf7bc21a57dcc698a04a0c.jpg"
+    },
+    {
+        "id": 1010,
+        "name": "Transistor",
+        "release_date": "2014-05-20",
+        "rating": 4.18,
+        "metacritic": 83,
+        "updated": "2024-01-20T17:54:31",
+        "image_background": "https://media.rawg.io/media/games/d1f/d1f872a48286b6b751670817d5c1e1be.jpg"
+    },
+    {
+        "id": 28154,
+        "name": "Cuphead",
+        "release_date": "2017-09-29",
+        "rating": 4.37,
+        "metacritic": 87,
+        "updated": "2024-02-23T01:36:01",
+        "image_background": "https://media.rawg.io/media/games/226/2262cea0b385db6cf399f4be831603b0.jpg"
+    },
+    {
+        "id": 2235,
+        "name": "Batman: Arkham Origins",
+        "release_date": "2013-10-25",
+        "rating": 3.94,
+        "metacritic": 74,
+        "updated": "2024-02-25T17:37:36",
+        "image_background": "https://media.rawg.io/media/games/fc3/fc30790a3b3c738d7a271b02c1e26dc2.jpg"
+    },
+    {
+        "id": 2093,
+        "name": "No Man's Sky",
+        "release_date": "2016-08-09",
+        "rating": 3.7,
+        "metacritic": 75,
+        "updated": "2024-02-25T12:19:14",
+        "image_background": "https://media.rawg.io/media/games/174/1743b3dd185bda4a7be349347d4064df.jpg"
+    },
+    {
+        "id": 28153,
+        "name": "Assassin's Creed Origins",
+        "release_date": "2017-10-27",
+        "rating": 3.98,
+        "metacritic": 81,
+        "updated": "2024-02-15T15:32:12",
+        "image_background": "https://media.rawg.io/media/games/336/336c6bd63d83cf8e59937ab8895d1240.jpg"
+    },
+    {
+        "id": 11052,
+        "name": "Titan Quest Anniversary Edition",
+        "release_date": "2016-08-31",
+        "rating": 3.79,
+        "metacritic": null,
+        "updated": "2024-01-25T05:12:00",
+        "image_background": "https://media.rawg.io/media/games/33d/33df5a032898b8ab7e3773c7a5f1d336.jpg"
+    },
+    {
+        "id": 9830,
+        "name": "Brawlhalla",
+        "release_date": "2014-04-30",
+        "rating": 3.23,
+        "metacritic": null,
+        "updated": "2024-02-25T12:19:19",
+        "image_background": "https://media.rawg.io/media/games/35b/35b47c4d85cd6e08f3e2ca43ea5ce7bb.jpg"
+    },
+    {
+        "id": 3678,
+        "name": "War Thunder",
+        "release_date": "2013-08-15",
+        "rating": 3.2,
+        "metacritic": 81,
+        "updated": "2024-02-22T00:39:20",
+        "image_background": "https://media.rawg.io/media/games/d07/d0790809a13027251b6d0f4dc7538c58.jpg"
+    },
+    {
+        "id": 2792,
+        "name": "Layers of Fear",
+        "release_date": "2016-02-16",
+        "rating": 3.53,
+        "metacritic": 72,
+        "updated": "2024-02-12T00:18:46",
+        "image_background": "https://media.rawg.io/media/games/6a2/6a2e48933245e2cd3c92248c75c925e1.jpg"
+    },
+    {
+        "id": 1682,
+        "name": "The Wolf Among Us",
+        "release_date": "2013-10-10",
+        "rating": 4.4,
+        "metacritic": 82,
+        "updated": "2024-02-19T03:04:29",
+        "image_background": "https://media.rawg.io/media/games/be0/be084b850302abe81675bc4ffc08a0d0.jpg"
+    },
+    {
+        "id": 998,
+        "name": "Battlefield 1",
+        "release_date": "2016-10-21",
+        "rating": 3.83,
+        "metacritic": 88,
+        "updated": "2024-02-22T08:55:48",
+        "image_background": "https://media.rawg.io/media/games/998/9980c4296f311d8bcc5b451ca51e4fe1.jpg"
+    },
+    {
+        "id": 4003,
+        "name": "GRID 2",
+        "release_date": "2013-05-27",
+        "rating": 3.3,
+        "metacritic": 80,
+        "updated": "2024-01-31T21:23:52",
+        "image_background": "https://media.rawg.io/media/games/27b/27b02ffaab6b250cc31bf43baca1fc34.jpg"
+    },
+    {
+        "id": 10340,
+        "name": "Crusader Kings II",
+        "release_date": "2012-02-13",
+        "rating": 3.59,
+        "metacritic": 82,
+        "updated": "2024-01-24T22:41:49",
+        "image_background": "https://media.rawg.io/media/games/c22/c22d804ac753c72f2617b3708a625dec.jpg"
+    },
+    {
+        "id": 15002,
+        "name": "The Stanley Parable",
+        "release_date": "2013-10-17",
+        "rating": 4.37,
+        "metacritic": 88,
+        "updated": "2024-02-13T06:53:41",
+        "image_background": "https://media.rawg.io/media/screenshots/8f0/8f0b94922ad5e59968852649697b2643.jpg"
+    },
+    {
+        "id": 3876,
+        "name": "Deus Ex: Human Revolution - Director's Cut",
+        "release_date": "2013-10-22",
+        "rating": 4.3,
+        "metacritic": 91,
+        "updated": "2024-02-12T11:28:57",
+        "image_background": "https://media.rawg.io/media/games/a12/a12f806432cb385bc286f0935c49cd14.jpg"
+    },
+    {
+        "id": 58777,
+        "name": "DOOM Eternal",
+        "release_date": "2020-03-20",
+        "rating": 4.36,
+        "metacritic": 86,
+        "updated": "2024-02-18T17:28:29",
+        "image_background": "https://media.rawg.io/media/games/3ea/3ea3c9bbd940b6cb7f2139e42d3d443f.jpg"
+    },
+    {
+        "id": 3497,
+        "name": "Far Cry 4",
+        "release_date": "2014-11-18",
+        "rating": 3.81,
+        "metacritic": 80,
+        "updated": "2024-02-12T11:00:45",
+        "image_background": "https://media.rawg.io/media/games/b39/b396dac1f3e0f538841aa0355dd066d3.jpg"
+    },
+    {
+        "id": 58751,
+        "name": "Halo Infinite",
+        "release_date": "2021-12-08",
+        "rating": 3.67,
+        "metacritic": 84,
+        "updated": "2024-02-22T18:25:28",
+        "image_background": "https://media.rawg.io/media/games/e1f/e1ffbeb1bac25b19749ad285ca29e158.jpg"
+    },
+    {
+        "id": 13461,
+        "name": "Resident Evil 5",
+        "release_date": "2009-03-03",
+        "rating": 3.81,
+        "metacritic": 86,
+        "updated": "2024-02-21T04:45:40",
+        "image_background": "https://media.rawg.io/media/games/974/974342a3959981a17bdbbff2fd7f97b0.jpg"
+    },
+    {
+        "id": 4527,
+        "name": "Call of Duty: Modern Warfare 2",
+        "release_date": "2009-11-10",
+        "rating": 4.26,
+        "metacritic": 86,
+        "updated": "2024-02-16T05:32:55",
+        "image_background": "https://media.rawg.io/media/games/9af/9af24c1886e2c7b52a4a2c65aa874638.jpg"
+    },
+    {
+        "id": 1256,
+        "name": "XCOM 2",
+        "release_date": "2016-02-04",
+        "rating": 4.09,
+        "metacritic": 88,
+        "updated": "2024-02-22T09:08:40",
+        "image_background": "https://media.rawg.io/media/games/9bf/9bfac18ff678f41a4674250fa0e04a52.jpg"
+    },
+    {
+        "id": 12024,
+        "name": "Insurgency",
+        "release_date": "2014-01-22",
+        "rating": 3.42,
+        "metacritic": 74,
+        "updated": "2024-01-06T17:11:18",
+        "image_background": "https://media.rawg.io/media/games/1a1/1a17e9b6286edb7e1f1e510110ccb0c0.jpg"
+    },
+    {
+        "id": 13305,
+        "name": "Assassin\u2019s Creed III",
+        "release_date": "2012-10-30",
+        "rating": 3.74,
+        "metacritic": 80,
+        "updated": "2024-02-19T20:41:52",
+        "image_background": "https://media.rawg.io/media/games/275/2759da6fcaa8f81f21800926168c85f6.jpg"
+    },
+    {
+        "id": 17959,
+        "name": "Ori and the Blind Forest: Definitive Edition",
+        "release_date": "2016-04-27",
+        "rating": 4.42,
+        "metacritic": 88,
+        "updated": "2024-02-22T21:12:13",
+        "image_background": "https://media.rawg.io/media/games/04a/04a7e7e185fb51493bdcbe1693a8b3dc.jpg"
+    },
+    {
+        "id": 262382,
+        "name": "Disco Elysium",
+        "release_date": "2019-10-14",
+        "rating": 4.42,
+        "metacritic": 91,
+        "updated": "2024-02-25T12:19:20",
+        "image_background": "https://media.rawg.io/media/games/840/8408ad3811289a6a5830cae60fb0b62a.jpg"
+    },
+    {
+        "id": 4599,
+        "name": "Saints Row 2",
+        "release_date": "2008-10-14",
+        "rating": 3.56,
+        "metacritic": 78,
+        "updated": "2024-02-09T21:04:18",
+        "image_background": "https://media.rawg.io/media/games/10d/10d19e52e5e8415d16a4d344fe711874.jpg"
+    },
+    {
+        "id": 3853,
+        "name": "Trine 2: Complete Story",
+        "release_date": "2013-06-05",
+        "rating": 3.72,
+        "metacritic": 84,
+        "updated": "2024-01-19T17:28:46",
+        "image_background": "https://media.rawg.io/media/screenshots/c97/c97b943741f5fbc936fe054d9d58851d.jpg"
+    },
+    {
+        "id": 11435,
+        "name": "Viscera Cleanup Detail: Shadow Warrior",
+        "release_date": "2013-09-26",
+        "rating": 2.58,
+        "metacritic": null,
+        "updated": "2024-01-22T16:21:23",
+        "image_background": "https://media.rawg.io/media/screenshots/f2f/f2f3c93d6153da7aee590f3ab8ccd803.jpg"
+    },
+    {
+        "id": 18613,
+        "name": "Counter-Strike: Condition Zero",
+        "release_date": "2004-03-01",
+        "rating": 3.14,
+        "metacritic": 65,
+        "updated": "2024-01-22T16:25:08",
+        "image_background": "https://media.rawg.io/media/games/8bd/8bd24e3c15354a9555bb1437fe555a69.jpg"
+    },
+    {
+        "id": 356714,
+        "name": "Among Us",
+        "release_date": "2018-07-25",
+        "rating": 3.85,
+        "metacritic": 82,
+        "updated": "2024-02-12T12:44:55",
+        "image_background": "https://media.rawg.io/media/games/e74/e74458058b35e01c1ae3feeb39a3f724.jpg"
+    },
+    {
+        "id": 13268,
+        "name": "Amnesia: A Machine for Pigs",
+        "release_date": "2013-09-09",
+        "rating": 3.24,
+        "metacritic": 72,
+        "updated": "2023-12-25T22:53:00",
+        "image_background": "https://media.rawg.io/media/games/d9f/d9f982e042df6263684ba1fdea3efc1c.jpg"
+    },
+    {
+        "id": 3168,
+        "name": "SOMA",
+        "release_date": "2015-09-21",
+        "rating": 4.16,
+        "metacritic": 84,
+        "updated": "2024-02-22T21:49:10",
+        "image_background": "https://media.rawg.io/media/games/149/149bbed9d90dc09328ba79bbacfda3c8.jpg"
+    },
+    {
+        "id": 10560,
+        "name": "Total War: SHOGUN 2",
+        "release_date": "2011-03-14",
+        "rating": 3.61,
+        "metacritic": 90,
+        "updated": "2024-02-24T19:04:13",
+        "image_background": "https://media.rawg.io/media/games/be9/be9cf02720c9326e11d0fda14518554f.jpg"
+    },
+    {
+        "id": 10061,
+        "name": "Watch Dogs 2",
+        "release_date": "2016-11-28",
+        "rating": 3.84,
+        "metacritic": 79,
+        "updated": "2024-02-12T11:47:37",
+        "image_background": "https://media.rawg.io/media/games/f52/f52cf6ba08089cd5f1a9c8f7fcc93d1f.jpg"
+    },
+    {
+        "id": 4544,
+        "name": "Red Dead Redemption",
+        "release_date": "2010-05-18",
+        "rating": 4.43,
+        "metacritic": 95,
+        "updated": "2024-02-14T16:53:17",
+        "image_background": "https://media.rawg.io/media/games/686/686909717c3aa01518bc42ae2bf4259e.jpg"
+    },
+    {
+        "id": 952,
+        "name": "Shadowrun Returns",
+        "release_date": "2013-07-24",
+        "rating": 3.51,
+        "metacritic": 76,
+        "updated": "2024-02-11T19:59:44",
+        "image_background": "https://media.rawg.io/media/games/d4b/d4bcd78873edd9992d93aff9cc8db0c8.jpg"
+    },
+    {
+        "id": 3766,
+        "name": "Thief",
+        "release_date": "2014-02-25",
+        "rating": 3.25,
+        "metacritic": 70,
+        "updated": "2024-02-14T19:40:11",
+        "image_background": "https://media.rawg.io/media/games/59a/59a3ebcba3d08c51532c6ca877aff256.jpg"
+    },
+    {
+        "id": 432,
+        "name": "Grand Theft Auto III",
+        "release_date": "2001-10-22",
+        "rating": 4.15,
+        "metacritic": 93,
+        "updated": "2024-02-17T12:24:00",
+        "image_background": "https://media.rawg.io/media/games/5fa/5fae5fec3c943179e09da67a4427d68f.jpg"
+    },
+    {
+        "id": 19590,
+        "name": "Ori and the Blind Forest",
+        "release_date": "2015-03-10",
+        "rating": 4.38,
+        "metacritic": 88,
+        "updated": "2024-02-24T12:20:05",
+        "image_background": "https://media.rawg.io/media/games/f8c/f8c6a262ead4c16b47e1219310210eb3.jpg"
+    },
+    {
+        "id": 51325,
+        "name": "The Last of Us Part II",
+        "release_date": "2020-06-19",
+        "rating": 4.42,
+        "metacritic": 93,
+        "updated": "2024-02-24T16:20:39",
+        "image_background": "https://media.rawg.io/media/games/909/909974d1c7863c2027241e265fe7011f.jpg"
+    },
+    {
+        "id": 906,
+        "name": "Call of Duty: Black Ops III",
+        "release_date": "2015-11-06",
+        "rating": 3.26,
+        "metacritic": 73,
+        "updated": "2024-02-12T11:23:09",
+        "image_background": "https://media.rawg.io/media/games/fd6/fd6a1eecd3ec0f875f1924f3656b7dd9.jpg"
+    },
+    {
+        "id": 28202,
+        "name": "Wolfenstein II: The New Colossus",
+        "release_date": "2017-10-25",
+        "rating": 4.09,
+        "metacritic": 86,
+        "updated": "2024-02-25T12:19:22",
+        "image_background": "https://media.rawg.io/media/games/a0e/a0ef08621301a1eab5e04fa5c96978fa.jpeg"
+    },
+    {
+        "id": 1090,
+        "name": "This War of Mine",
+        "release_date": "2014-11-14",
+        "rating": 4.07,
+        "metacritic": 83,
+        "updated": "2024-02-26T06:49:02",
+        "image_background": "https://media.rawg.io/media/games/283/283e7e600366b0da7021883d27159b27.jpg"
+    },
+    {
+        "id": 28492,
+        "name": "Dead Island",
+        "release_date": "2011-09-06",
+        "rating": 3.47,
+        "metacritic": 74,
+        "updated": "2024-02-15T00:59:15",
+        "image_background": "https://media.rawg.io/media/games/56e/56ed40948bebaf1968234aa6e3c74771.jpg"
+    },
+    {
+        "id": 18272,
+        "name": "Magicka",
+        "release_date": "2011-01-25",
+        "rating": 3.8,
+        "metacritic": 74,
+        "updated": "2024-02-24T00:36:28",
+        "image_background": "https://media.rawg.io/media/games/c7a/c7a71a0531a9518236d99d0d60abe447.jpg"
+    },
+    {
+        "id": 10548,
+        "name": "Darksiders Warmastered Edition",
+        "release_date": "2016-11-29",
+        "rating": 3.69,
+        "metacritic": 79,
+        "updated": "2024-01-29T21:31:21",
+        "image_background": "https://media.rawg.io/media/games/1f1/1f1888e1308959dfd3be4c144a81d19c.jpg"
+    },
+    {
+        "id": 3474,
+        "name": "Lara Croft and the Temple of Osiris",
+        "release_date": "2014-12-08",
+        "rating": 3.11,
+        "metacritic": 73,
+        "updated": "2024-01-31T17:10:49",
+        "image_background": "https://media.rawg.io/media/games/1fb/1fb1c5f7a71d771f440b27ce7f71e7eb.jpg"
+    },
+    {
+        "id": 326243,
+        "name": "Elden Ring",
+        "release_date": "2022-02-25",
+        "rating": 4.43,
+        "metacritic": 95,
+        "updated": "2024-02-25T12:19:32",
+        "image_background": "https://media.rawg.io/media/games/b29/b294fdd866dcdb643e7bab370a552855.jpg"
+    },
+    {
+        "id": 3740,
+        "name": "FEZ",
+        "release_date": "2012-04-13",
+        "rating": 4,
+        "metacritic": 91,
+        "updated": "2024-02-13T06:38:31",
+        "image_background": "https://media.rawg.io/media/games/4cb/4cb855e8ef1578415a928e53c9f51867.png"
+    },
+    {
+        "id": 17352,
+        "name": "Killing Floor",
+        "release_date": "2009-05-14",
+        "rating": 3.43,
+        "metacritic": 72,
+        "updated": "2024-02-23T04:46:12",
+        "image_background": "https://media.rawg.io/media/games/806/8060a7663364ac23e15480728938d6f3.jpg"
+    },
+    {
+        "id": 3990,
+        "name": "The Last Of Us",
+        "release_date": "2013-06-14",
+        "rating": 4.57,
+        "metacritic": 95,
+        "updated": "2024-02-25T17:48:22",
+        "image_background": "https://media.rawg.io/media/games/a5a/a5a7fb8d9cb8063a8b42ee002b410db6.jpg"
+    },
+    {
+        "id": 1358,
+        "name": "Papers, Please",
+        "release_date": "2013-08-08",
+        "rating": 4.38,
+        "metacritic": 85,
+        "updated": "2024-02-16T11:59:39",
+        "image_background": "https://media.rawg.io/media/games/6d3/6d33014a4ed48a19c30a77ead5a0f62e.jpg"
+    },
+    {
+        "id": 10297,
+        "name": "Sid Meier\u2019s Civilization VI",
+        "release_date": "2016-10-20",
+        "rating": 4.17,
+        "metacritic": 88,
+        "updated": "2024-02-11T19:38:44",
+        "image_background": "https://media.rawg.io/media/games/997/997ab4d67e96fb20a4092383477d4463.jpg"
+    }
+]
